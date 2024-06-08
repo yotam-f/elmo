@@ -1,0 +1,65 @@
+body{
+    background-color:rgb(76, 137, 150);
+}
+   
+
+.t{
+    margin: 0%;
+    height: 10%;
+    width: 100%;
+    background-color:rgb(68, 127, 140);
+    padding: 0;
+    padding-bottom: 0.1%; 
+    padding-top: 0.1%;    
+}
+
+.crgelCalim{
+    font-size: x-large;
+    text-align: center;
+    
+}
+a{
+    margin: 1%;
+    color: rgba(64, 64, 64, 0.73);
+    
+}
+
+.elmo{
+    color: rgba(0, 0, 0, 0.73);
+    text-decoration: none;
+    padding: 0.5%;
+}
+.sad_story{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.about_us{
+    text-decoration: none;
+    padding: 0.5%;
+}
+.home{
+    text-decoration: none;
+    padding: 0.5%;
+}
+
+
+
+.home:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
+.sad_story:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
+.about_us:hover{
+    color: rgba(0, 0, 0, 0.73);
+}
+
+.about_elmo{
+    text-align: right;
+    font-size: 200%;
+    margin-right: 2%;
+    margin-top: 3%;
+}
+.imageOFelmo{
+    float: right;
+}
